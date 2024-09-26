@@ -4,7 +4,13 @@ using namespace std;
 
 int main() {
 
-    cout<<"Hello World!!!"<<endl; 
+int x, y; 
+x = 5; 
+y = 10; 
 
-    return 0;
+int sum = x + y; 
+
+cout<<sum<<endl; 
+
+
 }
